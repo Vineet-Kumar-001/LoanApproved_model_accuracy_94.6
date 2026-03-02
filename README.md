@@ -16,4 +16,4 @@ docker run -p 8000:8000 -p 8501:8501 vineetkumar001/loanapproved:latest
 
 Now open:
 
-http://localhost:8000
+http://localhost:8501
