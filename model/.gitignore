@@ -3,7 +3,5 @@ __pycache__/
 .env
 .venv/
 loanapp/
-model.pkl
-*.pkl
 *.joblib
 anaconda3/
